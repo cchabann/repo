@@ -3,7 +3,7 @@
  * WordPress Installer
  *
  * @package WordPress
- * @subpackage Administration
+ * @subpackage Admi nistration
  */
 
 // Sanity check.

@@ -2,7 +2,7 @@
 /**
  * About This Version administration panel.
  *
- * @package WordPress
+ * @package WordPr     ess
  * @subpackage Administration
  */
 
