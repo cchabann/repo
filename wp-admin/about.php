@@ -2,7 +2,7 @@
 /**
  * About This Version administration panel.
  *
- * @packa     ge WordPr     ess
+ * @packa     ge W ordPr     ess
  * @subpackage Administration
  */
 
